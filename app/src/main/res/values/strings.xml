@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_maps_key">AIzaSyDeLkQagLG5UBDjH1qyu62BBvd39f0jBp4</string>
+    <string name="app_name">Lost and Found</string>
+
+    <string name="btn_create_advert">CREATE A NEW ADVERT</string>
+    <string name="btn_show_items">SHOW ALL LOST &amp; FOUND ITEMS</string>
+
+    <string name="hint_name">Name:</string>
+    <string name="hint_phone">Phone:</string>
+    <string name="hint_description">Description:</string>
+    <string name="hint_date">Date:</string>
+    <string name="hint_location">Location:</string>
+    <string name="btn_save">SAVE</string>
+    <string name="toast_fill_required">Please enter all</string>
+    <string name="toast_save_success">Save Successfully</string>
+
+    <string name="title_list">LOST &amp; FOUND ITEMS</string>
+
+    <string name="btn_remove">REMOVE</string>
+    <string name="toast_delete">Deleted</string>
+</resources>
